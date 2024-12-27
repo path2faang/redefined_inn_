@@ -1,0 +1,86 @@
+
+(function () {
+    var scr = document.createElement('script');
+    var snippet = "var i = document.createElement('img');\
+i.setAttribute('alt', '');\
+i.setAttribute('height', '1');\
+i.setAttribute('width', '1');\
+i.setAttribute('style', 'display: none;');\
+i.setAttribute('src', 'https://cm.g.doubleclick.net/pixel?google_cm=true&google_hm=YzA5NTk5ZWUtMjEyYS00MTY4LTgzZmUtODQ0ZDkzYTIxNTM5&google_nid=sojern__adx_open_bidder_seat&sjrn_id=s5pOPIOQ2uj7KNMkygV4lEuIZ2ou9RUMpN3F8f5C3rg4r2tx0r2YqcMtWMTCZ1vU&sjrn_lbid=862968b47b530b6270e97fd91f59a695&sjrn_pid=212985&sjrn_ts=1732353618');\
+document.body.appendChild(i);\
+";
+
+    scr.type = 'text/javascript';
+    scr.async = true;
+    if (scr.textContent) {
+        scr.textContent = snippet;
+    } else {
+        scr.text = snippet;
+    }
+    document.getElementsByTagName('head')[0].appendChild(scr);
+})();
+(function () {
+    var scr = document.createElement('script');
+    var snippet = "var i = document.createElement('img');\
+i.setAttribute('alt', '');\
+i.setAttribute('height', '1');\
+i.setAttribute('width', '1');\
+i.setAttribute('style', 'display: none;');\
+i.setAttribute('src', 'https://cm.g.doubleclick.net/pixel?google_hm=YzA5NTk5ZWUtMjEyYS00MTY4LTgzZmUtODQ0ZDkzYTIxNTM5&google_nid=sojern_adh&sjrn_lbid=862968b47b530b6270e97fd91f59a695&sjrn_ts=1732353618');\
+document.body.appendChild(i);\
+";
+
+    scr.type = 'text/javascript';
+    scr.async = true;
+    if (scr.textContent) {
+        scr.textContent = snippet;
+    } else {
+        scr.text = snippet;
+    }
+    document.getElementsByTagName('head')[0].appendChild(scr);
+})();
+(function () {
+    var scr = document.createElement('script');
+    var snippet = "var i = document.createElement('img');\
+    i.setAttribute('alt', '');\
+    i.setAttribute('height', '1');\
+    i.setAttribute('width', '1');\
+    i.setAttribute('style', 'display: none;');\
+    i.setAttribute('src', 'https://ad.doubleclick.net/ddm/activity/src=4810757;type=sales;cat=marri0e_;qty=1;cost=0;u1=MGP_201904|/en-us/hotels/bnedt-brisbane-marriott-hotel/overview/|https://www.marriott.com/;u16=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;npa=;ord=UNKNOWN');\
+    document.body.appendChild(i);\
+    ";
+
+    scr.type = 'text/javascript';
+    scr.async = true;
+    if (scr.textContent) {
+        scr.textContent = snippet;
+    } else {
+        scr.text = snippet;
+    }
+    document.getElementsByTagName('head')[0].appendChild(scr);
+})();
+(function () {var t=document.createElement('img');t.async=!0,t.width=1,t.height=1,t.style.display='none',t.src='https://ib.adnxs.com/px?id=1363126&t=1';document.body.appendChild(t)})();
+(function () {var t=document.createElement('img');t.async=!0,t.width=1,t.height=1,t.style.display='none',t.src='https://ib.adnxs.com/seg?add=23488789&t=1';document.body.appendChild(t)})();
+
+(function () {
+    var scr = document.createElement('script');
+    var snippet = "var i = document.createElement('img');\
+    i.setAttribute('alt', '');\
+    i.setAttribute('height', '1');\
+    i.setAttribute('width', '1');\
+    i.setAttribute('style', 'display: none;');\
+    i.setAttribute('src', 'https://ad.doubleclick.net/ddm/activity/src=4810757;type=sales;cat=marri0ht;qty=1;cost=0;u1=MGP_201904|/en-us/hotels/bnedt-brisbane-marriott-hotel/overview/|https://www.marriott.com/;u16=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;npa=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ord=UNKNOWN');\
+    document.body.appendChild(i);\
+    ";
+
+    scr.type = 'text/javascript';
+    scr.async = true;
+    if (scr.textContent) {
+        scr.textContent = snippet;
+    } else {
+        scr.text = snippet;
+    }
+    document.getElementsByTagName('head')[0].appendChild(scr);
+})();
+(function () {var t=document.createElement('img');t.async=!0,t.width=1,t.height=1,t.style.display='none',t.src='https://ib.adnxs.com/px?id=1358091&t=1';document.body.appendChild(t)})();
+(function () {var t=document.createElement('img');t.async=!0,t.width=1,t.height=1,t.style.display='none',t.src='https://ib.adnxs.com/seg?add=23377612&t=1';document.body.appendChild(t)})();
